@@ -1,5 +1,7 @@
 # AIMEN
 ### Use of What-if Scenarios to Help Explain Artificial Intelligence Models for Neonatal Health
+_Abdullah Mamun, Lawrence D. Devoe, Mark I. Evans, David W. Britt, Judith Klein-Seetharaman, Hassan Ghasemzadeh_
+
 
 AIMEN is an explainable machine learning system for predicting the risk of abnormal labor outcomes.
 
